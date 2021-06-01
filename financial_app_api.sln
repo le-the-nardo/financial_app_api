@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "financial_app_api", "financial_app_api\financial_app_api.csproj", "{BF32A463-A8E4-4A0A-9424-B2FF59BD1352}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "financial_app_api.Tests", "financial_app_api.Tests\financial_app_api.Tests.csproj", "{B1BAC999-DC5C-425D-B3EE-B33A8CB877DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF32A463-A8E4-4A0A-9424-B2FF59BD1352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF32A463-A8E4-4A0A-9424-B2FF59BD1352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF32A463-A8E4-4A0A-9424-B2FF59BD1352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF32A463-A8E4-4A0A-9424-B2FF59BD1352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BAC999-DC5C-425D-B3EE-B33A8CB877DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BAC999-DC5C-425D-B3EE-B33A8CB877DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BAC999-DC5C-425D-B3EE-B33A8CB877DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BAC999-DC5C-425D-B3EE-B33A8CB877DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897D61E0-EE99-4F30-B3FD-9DE2F8EFD414}
+	EndGlobalSection
+EndGlobal
